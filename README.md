@@ -20,7 +20,7 @@ An overview list of JavaScript Host Environments.
 - [Adobe Products](http://www.adobe.com/devnet/scripting.html)
 - [Open Office](http://www.openoffice.org/api/)
 - [Libre Office](http://api.libreoffice.org/)
- 
+- XXX scrape the rest of the wikipedia page http://en.wikipedia.org/wiki/JavaScript ~ "Uses outside web pages":  
 
 ## Inactive?
 - Microsoft Gadgets
