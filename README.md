@@ -9,6 +9,7 @@ An overview list of JavaScript Host Environments.
 - [Tizen Web Device](https://developer.tizen.org/dev-guide/2.2.1/org.tizen.web.device.apireference/index.html)
 - [Windows Runtime](http://msdn.microsoft.com/en-us/library/windows/apps/br211377.aspx)
 - [PhoneGap](http://phonegap.com/)
+- [NativeScript](http://www.telerik.com/nativescript)
 - [Gjs](https://wiki.gnome.org/action/show/Projects/Gjs)/[Seed](https://wiki.gnome.org/action/show/Projects/Seed)
 - [UI Automation](https://developer.apple.com/library/ios/documentation/DeveloperTools/Reference/UIAutomationRef/_index.html)
 - [JavaScript for Automation](https://developer.apple.com/library/prerelease/mac/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/index.html) <pre-release>
