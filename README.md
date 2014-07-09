@@ -6,6 +6,7 @@ An overview list of JavaScript Host Environments.
 - [Adobe Air](http://help.adobe.com/en_US/air/html/dev/index.html)
 - [Adobe Products](http://www.adobe.com/devnet/scripting.html)
 - [ArcGIS](https://developers.arcgis.com/javascript/jsapi/)
+- [Atom](https://atom.io/docs/api/)
 - [AutoShell](https://support.ca.com/cadocs/0/CA%20Virtual%20Assurance%20for%20Infrastructure%20Managers%2012%208%20SP02-ENU/Bookshelf_Files/HTML/UIHelp/index.htm?toc.htm?854496.html)
 - [ChatZilla](http://chatzilla.hacksrus.com/developers/api/)
 - [Chrome Extensions](https://developer.chrome.com/extensions/api_index)
