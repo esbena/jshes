@@ -18,7 +18,7 @@ An overview list of JavaScript Host Environments.
 - [Google Desktop Gadgets](https://developers.google.com/gadgets/docs/reference/)
 - [HexChat](http://hexchat.readthedocs.org/en/latest/script_javascript.html)
 - [JSDB](http://www.jsdb.org/reference.html)
-- [Java <=7](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino/Scripting_Java)
+- [Java](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino/Scripting_Java)
 - [Java >8](http://docs.oracle.com/javase/8/docs/technotes/guides/scripting/prog_guide/javascript.html#CIHFFHED)
 - [JavaScript for Automation](https://developer.apple.com/library/prerelease/mac/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/index.html) <pre-release> (aka JavaScript for OSA?)
 - [Klipfolio Dashboard](http://developer.klipfolio.com/api/)
